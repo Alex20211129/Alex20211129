@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I am a software engineer from Taiwan</h3>
 
-- 📫 How to reach me **kale51882cheryu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+**kale51882cheryu@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
