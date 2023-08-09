@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I am a software engineer from Taiwan</h3>
-
+<h3 align="center">I am trying be a software engineer</h3>
+<h3 align="center">The projects here are all about self-practice and follow along with the hands-on portion of the online course.</h3>
 - 📫 How to reach me **kale51882cheryu@gmail.com**
 
 
